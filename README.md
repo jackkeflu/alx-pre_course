@@ -1,1 +1,2 @@
-ALX-course is cool
+ALX-course
+
